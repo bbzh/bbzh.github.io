@@ -1,0 +1,6 @@
+@inproceedings{zhuang2021fusing,
+  title={Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty},
+  author={Zhuang, Bingbing and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
+  year={2021}
+}
