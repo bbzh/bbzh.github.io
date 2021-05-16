@@ -1,0 +1,8 @@
+@inproceedings{tiwari2020pseudo,
+  title={Pseudo rgb-d for self-improving monocular slam and depth prediction},
+  author={Tiwari, Lokender and Ji, Pan and Tran, Quoc-Huy and Zhuang, Bingbing and Anand, Saket and Chandraker, Manmohan},
+  booktitle={European Conference on Computer Vision},
+  pages={437--455},
+  year={2020},
+  organization={Springer}
+}
