@@ -1,0 +1,7 @@
+@inproceedings{zhuang2019learning,
+  title={Learning structure-and-motion-aware rolling shutter correction},
+  author={Zhuang, Bingbing and Tran, Quoc-Huy and Ji, Pan and Cheong, Loong-Fah and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4551--4560},
+  year={2019}
+}
