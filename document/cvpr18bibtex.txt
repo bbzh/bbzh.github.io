@@ -1,0 +1,7 @@
+@inproceedings{zhuang2018baseline,
+  title={Baseline desensitizing in translation averaging},
+  author={Zhuang, Bingbing and Cheong, Loong-Fah and Lee, Gim Hee},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4539--4547},
+  year={2018}
+}
