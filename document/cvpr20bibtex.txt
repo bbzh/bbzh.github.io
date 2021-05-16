@@ -1,0 +1,7 @@
+@inproceedings{liu2020understanding,
+  title={Understanding Road Layout from Videos as a Whole},
+  author={Liu, Buyu and Zhuang, Bingbing and Schulter, Samuel and Ji, Pan and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4414--4423},
+  year={2020}
+}
