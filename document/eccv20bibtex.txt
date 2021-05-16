@@ -1,0 +1,7 @@
+@inproceedings{zhuang2020image,
+  title={Image stitching and rectification for hand-held cameras},
+  author={Zhuang, Bingbing and Tran, Quoc-Huy},
+  booktitle={European Conference on Computer Vision},  
+  year={2020},
+  organization={Springer}
+}
