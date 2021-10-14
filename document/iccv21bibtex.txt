@@ -1,0 +1,8 @@
+@InProceedings{Kim_2021_ICCV,
+    author    = {Kim, Donghyun and Tsai, Yi-Hsuan and Zhuang, Bingbing and Yu, Xiang and Sclaroff, Stan and Saenko, Kate and Chandraker, Manmohan},
+    title     = {Learning Cross-Modal Contrastive Features for Video Domain Adaptation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {13618-13627}
+}
