@@ -1,0 +1,8 @@
+@InProceedings{Min_2023_CVPR,
+    author    = {Min, Zhixiang and Zhuang, Bingbing and Schulter, Samuel and Liu, Buyu and Dunn, Enrique and Chandraker, Manmohan},
+    title     = {NeurOCS: Neural NOCS Supervision for Monocular 3D Object Localization},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {21404-21414}
+}
