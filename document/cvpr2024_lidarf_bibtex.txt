@@ -1,0 +1,6 @@
+@inproceedings{sun2024lidarf,
+  title={LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes},
+  author={Sun, Shanlin and Zhuang, Bingbing and Jiang, Ziyu and Liu, Buyu and Xie, Xiaohui and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}

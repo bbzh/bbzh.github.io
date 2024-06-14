@@ -1,0 +1,6 @@
+@inproceedings{liu2024instantaneous,
+  title={Instantaneous Perception of Moving Objects in 3D},
+  author={Liu, Di and Zhuang, Bingbing and Metaxas, Dimitris N and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}
