@@ -1,0 +1,6 @@
+@inproceedings{liu2022weakly,
+  title={Weakly But Deeply Supervised Occlusion-Reasoned Parametric Road Layouts},
+  author={Liu, Buyu and Zhuang, Bingbing and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},  
+  year={2022}
+}
