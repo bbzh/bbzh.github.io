@@ -1,0 +1,7 @@
+@inproceedings{pittaluga2023ldp,
+  title={LDP-Feat: Image Features with Local Differential Privacy},
+  author={Pittaluga, Francesco and Zhuang, Bingbing},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17580--17590},
+  year={2023}
+}

@@ -1,0 +1,8 @@
+@inproceedings{zhuang2019degeneracy,
+  title={Degeneracy in Self-Calibration Revisited and a Deep Learning Solution for Uncalibrated SLAM},
+  author={Zhuang, Bingbing and Tran, Quoc-Huy and Lee, Gim Hee and Cheong, Loong Fah and Chandraker, Manmohan},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={3766--3773},
+  year={2019},
+  organization={IEEE}
+}
