@@ -1,0 +1,6 @@
+@inproceedings{Yaoetal25,
+  author = {Yao, Manyi and Zhuang, Bingbing and Garg, Sparsh and Roy-Chowdhury, Amit and Shelton, Christian R. and Chandraker, Manmohan and Aich, Abhishek},
+  title = {{iFinder}: Structured Zero-Shot Vision-Based {LLM} Grounding for Dash-Cam Video Reasoning},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2025},
+}

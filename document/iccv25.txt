@@ -1,0 +1,6 @@
+@inproceedings{chen2025autoscape,
+  title={AutoScape: Geometry-Consistent Long-Horizon Scene Generation},
+  author={Chen, Jiacheng and Jiang, Ziyu and Liang, Mingfu and Zhuang, Bingbing and Su, Jong-Chyi and Garg, Sparsh and Wu, Ying and Chandraker, Manmohan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  year={2025}
+}

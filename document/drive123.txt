@@ -1,0 +1,6 @@
+@article{lin2024drive,
+  title={Drive-1-to-3: Enriching diffusion priors for novel view synthesis of real vehicles},
+  author={Lin, Chuang and Zhuang, Bingbing and Sun, Shanlin and Jiang, Ziyu and Cai, Jianfei and Chandraker, Manmohan},
+  journal={arXiv preprint arXiv:2412.14494},
+  year={2024}
+}
